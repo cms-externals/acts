@@ -14,6 +14,7 @@
 #include "Acts/Utilities/AxisDefinitions.hpp"
 
 #include <array>
+#include <cassert>
 #include <limits>
 
 #include "Eigen/Dense"
