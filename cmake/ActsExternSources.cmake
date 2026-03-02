@@ -34,7 +34,7 @@ set(ACTS_DETRAY_SOURCE
 mark_as_advanced(ACTS_DETRAY_SOURCE)
 
 set(ACTS_TRACCC_SOURCE
-    "URL;https://github.com/acts-project/traccc/archive/refs/tags/v${_acts_traccc_version}.tar.gz;URL_HASH;SHA256=cee2d24ebd8dc99fd906fc41ee6e2dac0ce9f9b2c63eff4c06dc57f14365c3b5"
+    "URL;https://github.com/cms-externals/traccc/archive/refs/tags/cms/v${_acts_traccc_version}.tar.gz;URL_HASH;SHA256=d40d4d3dacd7c513287f57463b5f9e672c1c6d8becaeae6f5a73a31d7c90482b"
     CACHE STRING
     "Source to take TRACCC from"
 )
