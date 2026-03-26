@@ -17,6 +17,7 @@
 
 #include "Acts/Utilities/StringHelpers.hpp"
 
+#include <cassert>
 #include <format>
 
 namespace {
